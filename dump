@@ -1,1 +1,31 @@
+{
+  "Audio": {
+    "Skillcheck": "428495297",
+    "Hit Blank": "220025689",
+    "Hit Player": "145486953",
+    "Fail Skillcheck": "130840811",
+    "Keyboard": "163233363",
+    "Seer Safe": "99704631856032",
+    "Seer Warning": "74823016877909",
+    "Seer Detected": "133802087044871",
+    "Horror Phantomine FTF": "1846863084",
+    "Lobby Music": "1838825693"
+  },
 
+  "Images": {
+    "Seer Detected": "112846121019528",
+    "Seer Safe": "112846121019528",
+    "Seer Seen": "138016250014152",
+
+    "Pixel": {
+      "Pixel Escaping": "131483711673458",
+      "Pixel Captured": "118525531580207",
+      "Pixel Frozen": "81253974407476",
+      "Pixel Escaped": "78334519969767",
+      "Pixel Beast": "139608793788832",
+      "Pixel Idle": "115867517515435",
+      "Pixel Computer": "125488945887293",
+      "Pixel Timer": "110363489252909"
+    }
+  }
+}
