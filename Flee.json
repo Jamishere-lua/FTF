@@ -1,0 +1,193 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Audio",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Skillcheck",
+          "replace_ids": [
+            428495297
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Hit Blank",
+          "replace_ids": [
+            220025689
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Hit Player",
+          "replace_ids": [
+            145486953
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Fail Skillcheck",
+          "replace_ids": [
+            130840811
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Keyboard",
+          "replace_ids": [
+            163233363
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Seer Safe",
+          "replace_ids": [
+            99704631856032
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Seer Warning",
+          "replace_ids": [
+            74823016877909
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Seer Detected",
+          "replace_ids": [
+            133802087044871
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Horror Phantomine FTF",
+          "replace_ids": [
+            1846863084
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Lobby Music",
+          "replace_ids": [
+            1838825693
+          ],
+          "mode": "id",
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Images",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Seer Detected",
+          "replace_ids": [
+            112846121019528
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Seer Safe",
+          "replace_ids": [
+            112846121019528
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "name": "Seer Seen",
+          "replace_ids": [
+            138016250014152
+          ],
+          "mode": "id",
+          "enabled": false
+        },
+        {
+          "type": "group",
+          "name": "Pixel",
+          "expanded": false,
+          "children": [
+            {
+              "name": "Pixel Escaping",
+              "replace_ids": [
+                131483711673458
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "Pixel Captured",
+              "replace_ids": [
+                118525531580207
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "Pixel Frozen",
+              "replace_ids": [
+                81253974407476
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "Pixel Escaped",
+              "replace_ids": [
+                78334519969767
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "Pixel Beast",
+              "replace_ids": [
+                139608793788832
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "Pixel Idle",
+              "replace_ids": [
+                115867517515435
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "Pixel Computer",
+              "replace_ids": [
+                125488945887293
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "Pixel Timer",
+              "replace_ids": [
+                110363489252909
+              ],
+              "mode": "id",
+              "enabled": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
