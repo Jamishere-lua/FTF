@@ -1,31 +1,31 @@
 {
   "Audio": {
-    "Skillcheck": 428495297,
-    "Hit Blank": 220025689,
-    "Hit Player": 145486953,
-    "Fail Skillcheck": 130840811,
-    "Keyboard": 163233363,
-    "Seer Safe": 99704631856032,
-    "Seer Warning": 74823016877909,
-    "Seer Detected": 133802087044871,
-    "Horror Phantomine FTF": 1846863084,
-    "Lobby Music": 1838825693
+    Skillcheck: "428495297",
+    Hit_Blank: "220025689",
+    Hit_Player: "145486953",
+    Fail_Skillcheck: "130840811",
+    Keyboard: "163233363",
+    Seer_Safe: "99704631856032",
+    Seer_Warning: "74823016877909",
+    Seer_Detected: "133802087044871",
+    Horror_Phantomine_FTF: "1846863084",
+    Lobby_Music: "1838825693"
   },
 
   "Images": {
-    "Seer Detected": 112846121019528,
-    "Seer Safe": 112846121019528,
-    "Seer Seen": 138016250014152,
+    "Seer Detected": "112846121019528",
+    "Seer Safe": "112846121019528",
+    "Seer Seen": "138016250014152",
 
     "Pixel": {
-      "Pixel Escaping": 131483711673458,
-      "Pixel Captured": 118525531580207,
-      "Pixel Frozen": 81253974407476,
-      "Pixel Escaped": 78334519969767,
-      "Pixel Beast": 139608793788832,
-      "Pixel Idle": 115867517515435,
-      "Pixel Computer": 125488945887293,
-      "Pixel Timer": 110363489252909
+      Pixel_Escaping: "131483711673458",
+      Pixel_Captured: "118525531580207",
+      Pixel_Frozen: "81253974407476",
+      Pixel_Escaped: "78334519969767",
+      Pixel_Beast: "139608793788832",
+      Pixel_Idle: "115867517515435",
+      Pixel_Computer: "125488945887293",
+      Pixel_Timer: "110363489252909"
     }
   }
 }
