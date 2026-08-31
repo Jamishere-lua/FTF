@@ -1,16 +1,16 @@
 {
-  "Audio": [
-    { "Skillcheck": 428495297 },
-    { "Hit Blank": 220025689 },
-    { "Hit Player": 145486953 },
-    { "Fail Skillcheck": 130840811 },
-    { "Keyboard": 163233363 },
-    { "Seer Safe": 99704631856032 },
-    { "Seer Warning": 74823016877909 },
-    { "Seer Detected": 133802087044871 },
-    { "Horror Phantomine FTF": 1846863084 },
-    { "Lobby Music": 1838825693 }
-  ],
+  "Audio": {
+    "Skillcheck": 428495297,
+    "Hit Blank": 220025689,
+    "Hit Player": 145486953,
+    "Fail Skillcheck": 130840811,
+    "Keyboard": 163233363,
+    "Seer Safe": 99704631856032,
+    "Seer Warning": 74823016877909,
+    "Seer Detected": 133802087044871,
+    "Horror Phantomine FTF": 1846863084,
+    "Lobby Music": 1838825693
+  },
 
   "Images": {
     "Seer Detected": 112846121019528,
